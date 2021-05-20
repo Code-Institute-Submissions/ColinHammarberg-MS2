@@ -102,6 +102,37 @@
         ease: Expo.easeInOut
     }, 0.1);
 
+    anime.timeline()
+
+     TweenMax.to(".wrapper", 2, {
+       top: "-3000%",
+       ease: Expo.easeInOut,
+       delay: 3.6
+   });
+
+   var tl = new TimelineMax();
+
+  tl.from(".loader", 1.2, {
+       scaleY: "0%",
+       y: 100,
+       ease: Expo.easeInOut,
+       delay: 1,
+       transformOrigin:"50% 100%"
+   });
+
+   tl.to(".loader", 1.6, {
+       height: "20vh",
+       scaleY: "0%",
+       ease: Expo.easeInOut,
+       transformOrigin:"0% -100%"
+   });
+
+   TweenMax.to(".box", 2, {
+   y: "-1000%",
+   ease: Expo.easeInOut,
+   delay: 4.4,
+   });
+
     new WOW().init();
 
 
