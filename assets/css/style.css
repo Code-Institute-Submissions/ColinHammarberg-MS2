@@ -104,9 +104,6 @@ html, body {
       font-weight: 500;
 }
 
-.hero-btn {
-    
-}
 
 @media(max-width: 768px) {
       .header h1 {
