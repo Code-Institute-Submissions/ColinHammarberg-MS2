@@ -112,4 +112,57 @@ nav #menu li a:hover {
     transition: all 0.8s ease-out;
 }
 
+#resize #menu {
+    height: 90px;
+    position: absolute;
+    left: 45%;
+    transform: translateX(-40%);
+    text-align: center;
+    display: table-cell;
+    vertical-align: center;
+}
+
+#resize #menu li {
+    padding: 10px 0;
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    min-height: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.5s ease-out;
+}
+
+#resize li:nth-child(1) {
+    margin-top: 140px;
+}
+
+#resize #menu li a {
+    color: #000;
+}
+
+#resize #menu li a:hover {
+    color: #ec0f0f;
+}
+
+#resize.active {
+    visibility: visible;
+    opacity: 1;
+}
+
+@media(max-width: 768px) {
+    #toggle {
+        visibility: visible;
+        opacity: 1;
+        margin-top: 6px;
+        margin-right: 4px;
+        color: #000;
+    }
+
+    nav #brand {
+        margin-left: 24px;
+        color: #000;
+    }
+}
+
 
