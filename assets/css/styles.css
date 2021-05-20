@@ -163,6 +163,28 @@ nav #menu li a:hover {
         margin-left: 24px;
         color: #000;
     }
+
+    #menu a {
+        font-size: 20px;
+        font-weight: 400;
+        color: #000;
+    }
+    #resize li span {
+        font-weight: bold;
+    }
+
+    nav #menu {
+        display: none;
+    }
 }
+
+@media(max-width: 768px){
+    #resize {
+        visibility: hidden !important;
+    }
+}
+
+/*------------------ navbar ends here ------------- */
+
 
 
