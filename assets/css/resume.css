@@ -1,0 +1,105 @@
+html, 
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    font-family: "Arial" !important;
+    background: url(../images/Rasmus4.jpg) no-repeat 100% 50%;
+    background-size: cover;
+}
+
+.hero-title {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 48px;
+}
+
+.wrapper {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+}
+
+.navbar {
+    box-sizing: border-box;
+    position: fixed;
+    width: 6%;
+    height: 100vh;
+    background: #eb0e0e;;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 2.4px solid #fff;
+}
+
+.nav-toggle {
+    cursor: pointer;
+    transform: rotate(-90deg);
+    font-family: "Monument Extended";
+    color: #fff;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+.nav {
+    position: fixed;
+    width: 0%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    left: 6%;
+    background: #000;
+}
+
+.nav-items {
+    margin: 60px;
+}
+
+.nav-item {
+    position: relative;
+    font-size: 120px;
+}
+
+.nav-item a {
+    position: relative;
+    top: 140px;
+    text-decoration: none;
+    color: #eb0e0e;
+    text-transform: uppercase;
+    font-size: 140px;
+    font-weight: lighter;
+    letter-spacing: -8px;
+    transition: 1s;
+}
+
+.nav-item-wrapper:after {
+    content: "";
+    position: absolute;
+    top: 140px;
+    left: 0;
+    width: 110%;
+    height: 100%;
+    background: #000;
+    margin: 0 auto;
+    transition: 1s;
+}
+
+.nav-item:after {
+    content: "";
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 0%;
+    height: 2.8px;
+    background: #fff;
+    transition: 0.3s;
+}
+
+.nav-item:hover:after {
+    width: 100%;
+}
+
+
+
