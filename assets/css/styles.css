@@ -230,8 +230,24 @@ nav #menu li a:hover {
   object-fit: cover;
 }
 
-.hero-img h1 {
+.text h1 {
      color: #fff;
+     padding-bottom: 10px;
+}
+
+.info-btn {
+    align-items: center;
+    margin: auto;
+}
+
+.info-btn a {
+     color: #000;
+     padding-bottom: 5px;
+     margin: auto;
+     text-align: center;
+     background-color: #fff;
+     padding: 20px;
+     border-radius: 10px;
 }
 
 .box {

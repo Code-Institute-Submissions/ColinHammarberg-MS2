@@ -55,9 +55,9 @@
        <!-- hero image  -->
        <div class="wrapper-img">
            <div class="box"></div>
-           <div class="hero-img">
-            <h1>Welcome</h1>
-            </div>
+           <div class="hero-img"></div>
+           <div class="text"><h1>Welcome to Rasmus Hammarberg.</h1></div>
+           <div class="info-btn"><a href="resume.html">My Resume</a></div>
         </div>
     </div>
 
@@ -129,6 +129,18 @@
    });
 
    TweenMax.to(".box", 2, {
+   y: "-1000%",
+   ease: Expo.easeInOut,
+   delay: 4.4,
+   });
+
+   TweenMax.to(".text", 3, {
+   y: "-1000%",
+   ease: Expo.easeInOut,
+   delay: 4.4,
+   });
+
+   TweenMax.to(".info-btn", 3.5, {
    y: "-1000%",
    ease: Expo.easeInOut,
    delay: 4.4,
