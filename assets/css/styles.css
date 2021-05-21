@@ -230,6 +230,10 @@ nav #menu li a:hover {
   object-fit: cover;
 }
 
+.text {
+    text-align: center;
+}
+
 .text h1 {
      color: #fff;
      padding-bottom: 10px;
