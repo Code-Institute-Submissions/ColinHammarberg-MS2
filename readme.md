@@ -10,10 +10,10 @@
 
 # WIREFRAMES
 
-1. [Landing page Wireframes]()
-1. [Landing page Wireframes]()
-1. [Landing page Wireframes]()
-1. [Landing page Wireframes]()
-1. [Landing page Wireframes]()
+1. [Landing page Wireframes](https://github.com/ColinHammarberg/MS2/blob/64aab38479140b57ee7bf3249dce5bca5a2b3c41/documentation/Landing%20Page.png)
+1. [Contact page Wireframes](https://github.com/ColinHammarberg/MS2/blob/64aab38479140b57ee7bf3249dce5bca5a2b3c41/documentation/Contact%20Page.png)
+1. [Home page Wireframes](https://github.com/ColinHammarberg/MS2/blob/64aab38479140b57ee7bf3249dce5bca5a2b3c41/documentation/Home%20Page.png)
+1. [Resume page Wireframes](https://github.com/ColinHammarberg/MS2/blob/64aab38479140b57ee7bf3249dce5bca5a2b3c41/documentation/Resume%20Page.png)
+1. [Gallery page Wireframes](https://github.com/ColinHammarberg/MS2/blob/64aab38479140b57ee7bf3249dce5bca5a2b3c41/documentation/Gallery%20Page.png)
 2. [Beatiful Mock-Ups]()
 
