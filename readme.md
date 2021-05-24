@@ -10,9 +10,10 @@
 
 # WIREFRAMES
 
-1. [Landing Page Wireframes]()
-2. [About Me Page Wireframes]()
-3. [Contact Me Page Wireframes]()
-4. [Resume Page Wireframes]()
-5. [Beatiful Mock-Ups]()
+1. [Landing page Wireframes]()
+1. [Landing page Wireframes]()
+1. [Landing page Wireframes]()
+1. [Landing page Wireframes]()
+1. [Landing page Wireframes]()
+2. [Beatiful Mock-Ups]()
 
