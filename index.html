@@ -59,7 +59,7 @@
            <div class="box"></div>
            <div class="hero-img"></div>
            <div class="text"><h1>Welcome to Rasmus Hammarberg.</h1></div>
-           <div class="button"><a href="resume.html" style="text-align: center;">Bring me to the resume</a></div>
+           <div class="button"><a href="resume.html">ENTER SITE</a></div>
            <div class="scroll-down"></div>
         </div>
         
@@ -190,12 +190,12 @@
   delay: 4.4,
   });
 
+  TweenMax.to(".button", 3.5, {
+  y: "-1000%",
+  ease: Expo.easeInOut,
+  delay: 4.4,
+  });
 
-   TweenMax.to(".button", 3.5, {
-   y: "-1000%",
-   ease: Expo.easeInOut,
-   delay: 4.4,
-   });
 
     new WOW().init();
 
