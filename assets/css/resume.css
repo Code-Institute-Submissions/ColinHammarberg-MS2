@@ -204,8 +204,8 @@ nav #menu li a:hover {
 }
 
 .anim-typewriter {
-    animation: typewriter 4s steps(47) 1s 1 normal both, 
-    blinkTextCussor 500ms steps(47) infinite normal;
+    animation: typewriter 4s steps(42) 1s 1 normal both, 
+    blinkTextCussor 600ms steps(42) infinite normal;
 }
 
 @keyframes typewriter {
@@ -259,7 +259,6 @@ nav #menu li a:hover {
         font-size: 19px;
     }
 }
-
 
 /*------------------ hero ends here ------------- */
 
