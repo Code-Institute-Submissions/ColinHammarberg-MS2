@@ -20,9 +20,7 @@
 <body>
      <!-- loader  -->
    <div class="wrapper">
-       <div class="loader"></div>
        
-   </div>
    <div class="container">
        <!-- nav  -->
        <nav>
@@ -60,13 +58,17 @@
 
        <div class="hero">
            <div class="header">
-               <h1 class="line anim-typewriter">Welcome to our <b>project</b> page<b>. </b>Enjoy<b>.</b></h1>
+               <h1 class="line anim-typewriter">Welcome to my <b>resume</b> page<b>. </b><b>Enjoy</b><b>.</b></h1>
            </div>
+           
        </div>
-
        <div class="scroll-down"></div>
 
+       
+
        <!-- hero sections ends here  -->
+
+       </div>
        
 
         <!--------------- footer starts here --------------->
@@ -146,68 +148,19 @@
     // navigation animations here
 
     TweenMax.from("#brand", 1, {
-        delay: 0.4,
+        delay: 0.6,
         y: 10,
         opacity: 0,
         ease: Expo.easeInOut
     })
 
     TweenMax.staggerFrom("#menu li a", 1, {
-        delay: 3,
+        delay: 0.8,
         opacity: 0,
         ease: Expo.easeInOut
     }, 0.1);
 
     anime.timeline()
-
-     TweenMax.to(".wrapper", 2, {
-       top: "3000%",
-       ease: Expo.easeInOut,
-       delay: 3.6
-   });
-
-   var tl = new TimelineMax();
-
-  tl.from(".loader", 1.2, {
-       scaleY: "0%",
-       y: 100,
-       ease: Expo.easeInOut,
-       delay: 1,
-       transformOrigin:"50% 100%"
-   });
-
-   tl.to(".loader", 1.6, {
-       height: "20vh",
-       scaleY: "0%",
-       ease: Expo.easeInOut,
-       transformOrigin:"0% -100%"
-   });
-
-   TweenMax.to(".box", 2, {
-   y: "-1000%",
-   ease: Expo.easeInOut,
-   delay: 4.4,
-   });
-
-   TweenMax.to(".text", 3, {
-  y: "-1000%",
-  ease: Expo.easeInOut,
-  delay: 4.4,
-  });
-
-  TweenMax.to(".menu", 4, {
-  y: "-1000%",
-  ease: Expo.easeInOut,
-  delay: 4.4,
-  });
-
-   TweenMax.to(".button", 3.5, {
-   y: "-1000%",
-   ease: Expo.easeInOut,
-   delay: 4.4,
-   });
-
-
 
     new WOW().init();
 
