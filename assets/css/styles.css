@@ -37,11 +37,14 @@ nav #brand {
       line-height: 80px;
       font-weight: 300;
       font-size: 25px;
+      color: #21ebff;
 }
 
 nav #brand a {
-      color: #fff;
+      color: #21ebff;
       transition: all 0.6s ease-out;
+      text-shadow: 0 0 50px #21ebff;
+      text-decoration: none;
 }
 
 nav #brand a:hover {
@@ -53,6 +56,7 @@ nav #menu {
       right: 80px;
       position: fixed;
       font-size: 20px;
+      color: #21ebff;
 }
 
 nav #menu li {
@@ -70,7 +74,9 @@ nav #menu li span {
 }
 
 nav #menu li a {
-      color: #fff;
+      color: #21ebff;
+      text-decoration: none;
+      text-shadow: 0 0 50px #21ebff;
 }
 
 nav #menu li a:hover {
@@ -141,11 +147,11 @@ nav #menu li a:hover {
 }
 
 #resize #menu li a {
-      color: #fff;
+      color: #21ebff;
 }
 
 #resize #menu li a:hover {
-      color: #fff;
+      color: #21ebff;
 }
 
 #resize.active {
@@ -159,18 +165,18 @@ nav #menu li a:hover {
             opacity: 1;
             margin-top: 6px;
             margin-right: 4px;
-            color: #fff;
+            color: #21ebff;
       }
 
       nav #brand {
             margin-left: 24px;
-            color: #fff;
+            color: #21ebff;
       }
 
       #menu a {
             font-size: 20px;
             font-weight: 300;
-            color: #fff;
+            color: #21ebff;
       }
 
       #resize li span {
@@ -203,8 +209,8 @@ nav #menu li a:hover {
       text-shadow: 0;
       width: 13px;
       height: 13px;
-      border-bottom: 2px solid #fff;
-      border-right: 2px solid #fff;
+      border-bottom: 2px solid #21ebff;
+      border-right: 2px solid #21ebff;
       -webkit-transform: translate(-50%, 0) rotate(45deg);
       animation: fade_move_down 3s cubic-bezier(0.19, 1, 0.22, 1) infinite;
 }
