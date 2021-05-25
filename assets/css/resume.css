@@ -412,14 +412,15 @@ nav #menu li a:hover {
 
 /*--------------- resume section begins here --------------- */
 
-.time-line {
+.timeline {
     padding: 4em 2em 0em 2em;
     position: relative;
     color: #fff;
     border-left: 1px solid;
+    margin-left: 35px;
 }
 
-.time-line p {
+.timeline p {
     padding: 0;
     margin: 0;
 }
@@ -442,7 +443,7 @@ nav #menu li a:hover {
     display: block;
     top: 2.4em;
     position: absolute;
-    left: -6px;
+    left: -7.5px;
     border-radius: 12px;
     content: '';
     background: #fff;
@@ -451,11 +452,50 @@ nav #menu li a:hover {
 .history-heading {
     color: #fff;
     margin-bottom: 50px;
+    margin-left: 35px;
+    margin-top: 50px;
 }
 
 .history {
     margin-bottom: 30px;
 }
+
+.bg-color-work-history {
+    background-color: #000;
+}
+
+.row-table {
+    display: table;
+}
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
+}
+
+.progress {
+    position: relative;
+    height: 25px;
+}
+
+.progress-type {
+    position: absolute;
+    left: 0px;
+    font-weight: 400;
+    padding: 3px 30px 2px 10px;
+    color: #fafafa;
+    background-color: rgba(25, 25, 25, 0.2);
+}
+
+
+.progress-section {
+    margin: 40px 20px;
+}
+
 
 
 
