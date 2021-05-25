@@ -410,7 +410,53 @@ nav #menu li a:hover {
 
 /*--------------- footer section ends here --------------- */
 
+/*--------------- resume section begins here --------------- */
+
+.time-line {
+    padding: 4em 2em 0em 2em;
+    position: relative;
+    color: #fff;
+    border-left: 1px solid;
+}
+
+.time-line p {
+    padding: 0;
+    margin: 0;
+}
+
+.timeline::before {
+    content: attr(data-dates);
+    position: absolute;
+    left: 2.5em;
+    top: 3em;
+    display: block;
+    font-weight: 500;
+    font-size: .8em;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline::after {
+    width: 14px;
+    height: 14px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: '';
+    background: #fff;
+}
+
+.history-heading {
+    color: #fff;
+    margin-bottom: 50px;
+}
+
+.history {
+    margin-bottom: 30px;
+}
 
 
 
-
+/*--------------- resume section ends here --------------- */
