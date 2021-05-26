@@ -26,23 +26,21 @@ nav {
      width: 100%;
      background: #000;
      height: 80px;
-     position: fixed;
-     z-index: 1;
+     z-index: 1; 
 }
  
-nav #brand {
-     float: left;
-     display: block;
-     margin-left: 82px;
+#brand {
      line-height: 80px;
      font-weight: 300;
      font-size: 25px;
+     float: left;
 }
  
 nav #brand a {
      color: #21ebff;
      transition: all 0.6s ease-out;
      text-decoration: none;
+     float: left;
 }
  
 nav #brand a:hover {
@@ -50,18 +48,17 @@ nav #brand a:hover {
 }
  
 nav #menu {
-     float: left;
-     right: 80px;
      position: fixed;
      font-size: 20px;
+     float: left;
+     right: 80px;
 }
  
 nav #menu li {
-     padding-left: 40px;
      display: inline-block;
      cursor: pointer;
      font-weight: 300;
-     line-height: 40px;
+     line-height: 80px;
      position: relative;
      transition: all 0.6s ease-out;
 }
@@ -452,7 +449,7 @@ nav #menu li a:hover {
 .history-heading {
    color: #fff;
    margin-bottom: 50px;
-   margin-left: 35px;
+   margin-left: 10px;
    margin-top: 50px;
 }
  
