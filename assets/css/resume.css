@@ -34,6 +34,7 @@ nav {
      font-weight: 300;
      font-size: 25px;
      float: left;
+     position: fixed;
 }
  
 nav #brand a {
@@ -263,14 +264,6 @@ nav #menu li a:hover {
  
 /*------------------ hero ends here ------------- */
  
-/*------------------ resume sections begins here ------------- */
- 
-/*------------------ resume ends begins here ------------- */
- 
- 
- 
- 
- 
 /*------------------ scroll-down begins here ------------- */
 .scroll-down {
      position: absolute;
@@ -317,6 +310,8 @@ nav #menu li a:hover {
 .hr {
      background: #21ebff;
      height: 2px;
+     margin-top: 40px;
+     margin-bottom: 40px;
 }
  
 .info h4 {
@@ -414,12 +409,14 @@ nav #menu li a:hover {
    position: relative;
    color: #fff;
    border-left: 1px solid;
-   margin-left: 35px;
+   margin-left: 50px;
+   padding-bottom: 40px;
 }
  
 .timeline p {
    padding: 0;
    margin: 0;
+   padding-bottom: 10px;
 }
  
 .timeline::before {
@@ -449,40 +446,12 @@ nav #menu li a:hover {
 .history-heading {
    color: #fff;
    margin-bottom: 50px;
-   margin-left: 10px;
+   margin-left: 50px;
    margin-top: 50px;
 }
  
 .history {
    margin-bottom: 30px;
-}
- 
-.bg-color-work-history {
-   background-color: #000;
-}
- 
-.row-table {
-   display: table;
-}
- 
- 
-.progress {
-   position: relative;
-   height: 25px;
-}
- 
-.progress-type {
-   position: absolute;
-   left: 0px;
-   font-weight: 400;
-   padding: 3px 30px 2px 10px;
-   color: #fafafa;
-   background-color: rgba(25, 25, 25, 0.2);
-}
- 
- 
-.progress-section {
-   margin: 40px 20px;
 }
  
  
@@ -504,7 +473,7 @@ nav #menu li a:hover {
    display: flex;
    justify-content: center;
    align-items: center;
-   margin: 30px;
+   margin: 60px;
    box-shadow: 0 20px 50px rgba(0,0,0,0.2);
    overflow: hidden;
 }
@@ -624,10 +593,7 @@ nav #menu li a:hover {
    width: 100%;
    height: 100%;
 }
-  
- 
- 
- 
+
 /*--------------- button on article section ends here --------------- */
  
  
@@ -717,9 +683,6 @@ nav #menu li a:hover {
        transform: translateY(-100%);
    }
 }
- 
- 
- 
  
  
 /*--------------- article section ends here --------------- */
