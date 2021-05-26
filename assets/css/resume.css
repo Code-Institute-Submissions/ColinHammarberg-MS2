@@ -29,12 +29,14 @@ nav {
      z-index: 1; 
 }
  
-#brand {
-     line-height: 80px;
-     font-weight: 300;
-     font-size: 25px;
-     float: left;
-     position: fixed;
+nav #brand {
+      float: left;
+      display: block;
+      margin-left: 82px;
+      line-height: 80px;
+      font-weight: 300;
+      font-size: 25px;
+      color: #21ebff;
 }
  
 nav #brand a {
@@ -56,12 +58,13 @@ nav #menu {
 }
  
 nav #menu li {
-     display: inline-block;
-     cursor: pointer;
-     font-weight: 300;
-     line-height: 80px;
-     position: relative;
-     transition: all 0.6s ease-out;
+      padding-left: 40px;
+      display: inline-block;
+      cursor: pointer;
+      font-weight: 300;
+      line-height: 80px;
+      position: relative;
+      transition: all 0.6s ease-out;
 }
  
 nav #menu li span {
@@ -317,11 +320,13 @@ nav #menu li a:hover {
 .info h4 {
      font-size: 18px;
      font-weight: lighter;
+     
 }
  
 .info p {
      color: grey;
      font-weight: lighter;
+     
 }
  
 .info li {
