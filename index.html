@@ -55,8 +55,8 @@
        
        
  
-       <!-- hero image  -->
-       <!-- hero image  -->
+       
+       <!-- hero image begins here -->
        <div class="wrapper-img">
            <div class="box"></div>
            <div class="hero-img">
@@ -64,19 +64,19 @@
            </div>
          </div>
  
-       <!-- header  -->
+       <!-- header section begins here -->
        <div class="header">
            <h1 class="header-1">Rasmus</h1>
            <h1 class="header-2">Hammarberg.</h1>
        </div>
  
-       <!-- hero-container  -->
+       <!-- hero sections begins here-->
       <div class="hero-container">
-           <div class="sidebar-text">home.</div>
-           <div class="projects">resume.</div>
+           <div class="sidebar-text"><a href="index.html">home.</a></div>
+           <div class="resume"><a href="resume.html">resume.</a></div>
            <div class="img-nav">
-               <div class="prev">contact.</div>
-               <div class="next">gallery.</div>
+               <div class="contact-text"><a href="contact.html">contact.</a></div>
+               <div class="gallery-text"><a href="gallery.html">gallery.</a></div>
            </div>
           
        </div>
@@ -171,7 +171,7 @@
        opacity: [0,1],
        easing: "easeOutExpo",
        duration: 2000,
-       delay: (el, i) => 4800 + 100 * i
+       delay: (el, i) => 4800 + 50 * i
    });
 
    var textWrapper = document.querySelector('.header-2');
@@ -188,7 +188,7 @@
        delay: (el, i) => 6000 + 100 * i
    });
 
-     TweenMax.to(".wrapper", 2, {
+     TweenMax.to(".wrapper", 0.5, {
        top: "3000%",
        ease: Expo.easeInOut,
        delay: 3.6
@@ -196,7 +196,7 @@
 
    var tl = new TimelineMax();
 
-  tl.from(".loader", 1.2, {
+  tl.from(".loader", 1, {
        scaleY: "0%",
        y: 100,
        ease: Expo.easeInOut,
@@ -204,27 +204,27 @@
        transformOrigin:"50% 100%"
    });
 
-   tl.to(".loader", 1.6, {
-       height: "20vh",
-       scaleY: "0%",
+   tl.to(".loader", 2, {
+       height: "100vh",
+       scaleY: "50%",
        ease: Expo.easeInOut,
        transformOrigin:"0% -100%"
    });
 
    TweenMax.to(".box", 2, {
-   y: "-1000%",
+   y: "-500%",
    ease: Expo.easeInOut,
    delay: 4.4,
    });
 
-   var tl = new TweenMax.staggerFrom(".menu > div", 2.4, {
+   var tl = new TweenMax.staggerFrom(".menu > div", 2.8, {
        opacity: 0,
-       y: 40, 
+       y: 60, 
        ease: Expo.easeInOut,
-       delay: 4.9
+       delay: 5.1
    }, 0.2);
 
-   var tl = new TweenMax.staggerFrom(".hero-container > div", 2.8, { 
+   var tl = new TweenMax.staggerFrom(".hero-container > div", 3.2, { 
        opacity: 0,
        y: 100, 
        ease: Expo.easeInOut,
