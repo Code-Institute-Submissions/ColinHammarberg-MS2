@@ -37,6 +37,7 @@ nav #brand {
       font-weight: 300;
       font-size: 25px;
       color: #21ebff;
+      position: fixed;
 }
  
 nav #brand a {
@@ -458,6 +459,7 @@ nav #menu li a:hover {
 .history {
    margin-bottom: 30px;
 }
+
  
  
 /*--------------- resume section ends here --------------- */
@@ -704,13 +706,13 @@ nav #menu li a:hover {
      
 }
 
-h3 {
+.header-h3 h3 {
     text-align: center;
     text-transform: uppercase;
     color: #21ebff;
 }
 
-p {
+.header-h3 p {
     text-align: center;
     color: #21ebff;
     text-decoration: underline;
@@ -776,6 +778,7 @@ textarea:focus {
       font-size: 14px;
       letter-spacing: 2px;
       margin-bottom: 45px;
+      font-weight: 700;
 }
 
 .send:hover {
