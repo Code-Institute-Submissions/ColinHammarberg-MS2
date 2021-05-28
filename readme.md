@@ -19,3 +19,10 @@
 
 ##### I (Colin Hammarberg) am developing/building this resume platform for my beloved brother (Rasmus Hammarberg). The goal with the site is to create a unique resume site, where professional information can be found about Rasmus Hammarberg. I'm putting a lot of focus on the design, and also to implement functions, to create an extrodinary visual effect and interaction with the user. I will also be implementing an API (most probably a LinkedIn search motor API) and include Javascript for each and every page.
 
+### To-do list for tomorrow (29/05): 
+- Build the wireframes for the images in the gallery 
+- Upload all real images to the gallery. 
+- Create the downloadable button for the resume. 
+- Add the content / about text to the resume section. 
+- Upload the new mockups / wireframes  
+
