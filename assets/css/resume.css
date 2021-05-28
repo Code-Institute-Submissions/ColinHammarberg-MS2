@@ -704,6 +704,18 @@ nav #menu li a:hover {
      
 }
 
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #21ebff;
+}
+
+p {
+    text-align: center;
+    color: #21ebff;
+    text-decoration: underline;
+}
+
 .header h3 { 
     color: #21ebff;
     margin-top: 20px;
