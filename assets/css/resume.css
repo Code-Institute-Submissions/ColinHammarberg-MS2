@@ -826,4 +826,113 @@ textarea:focus {
 
 /*------------------ contact form section ends here ------------- */
 
+/*------------------ gallery section begins here ------------- */
+
+h6 {
+      text-align: center;
+      color: #21ebff;
+      font-size: 26px;
+}
+
+.vertical {
+      margin-top: 40px;
+      border-left: 2px solid #21ebff;
+      border-right: 2px solid #21ebff;
+      height: 80px;
+      position: absolute;
+      left: 50%;
+}
+
+.project {
+      height: 500px;
+}
+
+.project1 {
+      background: url(../images/second-image.jpeg) no-repeat 50% 50%;
+      background-size: cover;
+}
+
+.project1::after {
+      content: "Traveling.";
+      font-family: "Roboto Mono";
+      font-size: 36px;
+      position: relative;
+      color: #21ebff;
+      display: block;
+      top: 8%;
+      left: -60%;
+      right: 0;
+      bottom: 0;
+}
+
+.project2 {
+      background: url(../images/second-image.jpeg) no-repeat 50% 50%;
+      background-size: cover;
+}
+
+.project2::after {
+      content: "Family.";
+      font-family: "Roboto Mono";
+      font-size: 36px;
+      position: relative;
+      color: #21ebff;
+      display: block;
+      top: 80%;
+      left: 90%;
+      right: 0;
+      bottom: 0;
+}
+
+.project3 {
+      background: url(../images/second-image.jpeg) no-repeat 50% 50%;
+      background-size: cover;
+}
+
+.project3::after {
+      content: "Digital Sales.";
+      font-family: "Roboto Mono";
+      font-size: 36px;
+      position: relative;
+      color: #21ebff;
+      display: block;
+      top: 80%;
+      left: -50%;
+      right: 0;
+      bottom: 0;
+}
+
+.project4 {
+      background: url(../images/second-image.jpeg) no-repeat 50% 50%;
+      background-size: cover;
+}
+
+.project4::after {
+      content: "Public Speaking.";
+      font-family: "Roboto Mono";
+      font-size: 36px;
+      position: relative;
+      color: #21ebff;
+      display: block;
+      top: 10%;
+      left: 90%;
+      right: 0;
+      bottom: 0;
+}
+
+@media(max-width: 768px) {
+      .project {
+            width: 90% !important;
+            margin: 14px auto;
+      }
+
+      .vertical {
+            display: none;
+      }
+
+      .project1::after, .project2::after, .project3::after, .project4::after {
+            display: none;
+      }
+}
+
+/*------------------ gallery section ends here ------------- */
 
