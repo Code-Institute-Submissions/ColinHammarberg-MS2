@@ -56,15 +56,32 @@
        
  
        <!-- hero image  -->
+       <!-- hero image  -->
        <div class="wrapper-img">
            <div class="box"></div>
-           <div class="hero-img"></div>
-           <div class="col-lg-12"></div>
-           <div class="text"><h1>Welcome to Rasmus Hammarberg.</h1></div>
-            <button><a href="resume.html"></a></button>
-           <div class="scroll-down"></div>
+           <div class="hero-img">
+            
            </div>
-        </div>
+         </div>
+ 
+       <!-- header  -->
+       <div class="header">
+           <h1 class="header-1">Rasmus</h1>
+           <h1 class="header-2">Hammarberg.</h1>
+       </div>
+ 
+       <!-- hero-container  -->
+      <div class="hero-container">
+           <div class="sidebar-text">home.</div>
+           <div class="projects">resume.</div>
+           <div class="img-nav">
+               <div class="prev">contact.</div>
+               <div class="next">gallery.</div>
+           </div>
+          
+       </div>
+      
+   </div>
         
 
         <!--------------- footer starts here --------------->
@@ -143,20 +160,33 @@
 
     // navigation animations here
 
-    TweenMax.from("#brand", 1, {
-        delay: 0.4,
-        y: 10,
-        opacity: 0,
-        ease: Expo.easeInOut
-    })
-
-    TweenMax.staggerFrom("#menu li a", 1, {
-        delay: 0.4,
-        opacity: 0,
-        ease: Expo.easeInOut
-    }, 0.1);
+    var textWrapper = document.querySelector('.header-1');
+    textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 
     anime.timeline()
+   .add({
+       targets: '.header-1 .letter',
+       translateY: [200,0],
+       translateZ: 0,
+       opacity: [0,1],
+       easing: "easeOutExpo",
+       duration: 2000,
+       delay: (el, i) => 4800 + 100 * i
+   });
+
+   var textWrapper = document.querySelector('.header-2');
+   textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+ 
+   anime.timeline()
+   .add({
+       targets: '.header-2 .letter',
+       translateY: [200,0],
+       translateZ: 0,
+       opacity: [0,1],
+       easing: "easeOutExpo",
+       duration: 2000,
+       delay: (el, i) => 6000 + 100 * i
+   });
 
      TweenMax.to(".wrapper", 2, {
        top: "3000%",
@@ -187,17 +217,34 @@
    delay: 4.4,
    });
 
-   TweenMax.to(".hero-img", 3, {
-  y: "-1000%",
-  ease: Expo.easeInOut,
-  delay: 4.4,
-  });
+   var tl = new TweenMax.staggerFrom(".menu > div", 2.4, {
+       opacity: 0,
+       y: 40, 
+       ease: Expo.easeInOut,
+       delay: 4.9
+   }, 0.2);
 
-  TweenMax.to("button", 3.5, {
-  y: "-1000%",
-  ease: Expo.easeInOut,
-  delay: 4.4,
-  });
+   var tl = new TweenMax.staggerFrom(".hero-container > div", 2.8, { 
+       opacity: 0,
+       y: 100, 
+       ease: Expo.easeInOut,
+       delay: 5.4
+   }, 0.2);
+
+  TweenMax.from("#brand", 1, {
+        delay: 0.4,
+        y: 10,
+        opacity: 0,
+        ease: Expo.easeInOut
+    })
+
+    TweenMax.staggerFrom("#menu li a", 1, {
+        delay: 0.4,
+        opacity: 0,
+        ease: Expo.easeInOut
+    }, 0.1);
+
+  
 
 
     new WOW().init();
@@ -205,6 +252,7 @@
 
     
     
+    </script>
     </script>
     
 </body>
