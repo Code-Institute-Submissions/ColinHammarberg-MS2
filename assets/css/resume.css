@@ -99,13 +99,13 @@ nav #menu li a:hover {
  
 .close-btn {
      position: absolute;
-     right: 16px;
-     font-weight: 300;
-     z-index: 2;
-     cursor: pointer;
-     top: -2px;
-     line-height: 80px;
-     color: #21ebff;
+      right: 16px;
+      font-weight: 300;
+      z-index: 2;
+      cursor: pointer;
+      top: -2px;
+      line-height: 80px;
+      color: #21ebff;
 }
  
 #resize {
