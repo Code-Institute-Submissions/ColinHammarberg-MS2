@@ -828,111 +828,59 @@ textarea:focus {
 
 /*------------------ gallery section begins here ------------- */
 
-h6 {
-      text-align: center;
-      color: #21ebff;
-      font-size: 26px;
+#demo {
+  height:100%;
+  position:relative;
+  overflow:hidden;
+  background-color: #21ebff;
 }
 
-.vertical {
-      margin-top: 40px;
-      border-left: 2px solid #21ebff;
-      border-right: 2px solid #21ebff;
-      height: 80px;
-      position: absolute;
-      left: 50%;
+.fancybox-skin {
+    background: #21ebff;
 }
 
-.project {
-      height: 500px;
+
+.green{
+  background-color:#21ebff;
 }
 
-.project1 {
-      background: url(../images/second-image.jpeg) no-repeat 50% 50%;
-      background-size: cover;
+.thumb{
+  margin-bottom: 30px;
+}
+        
+.page-top{
+margin-top:85px;
 }
 
-.project1::after {
-      content: "Traveling.";
-      font-family: "Roboto Mono";
-      font-size: 36px;
-      position: relative;
-      color: #21ebff;
-      display: block;
-      top: 8%;
-      left: -60%;
-      right: 0;
-      bottom: 0;
+   
+img.zoom {
+    width: 100%;
+    height: 200px;
+    border-radius:5px;
+    object-fit:cover;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+}
+        
+ 
+.transition {
+    -webkit-transform: scale(1.2); 
+    -moz-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
 }
 
-.project2 {
-      background: url(../images/second-image.jpeg) no-repeat 50% 50%;
-      background-size: cover;
+.modal-header {
+border-bottom: none;
 }
 
-.project2::after {
-      content: "Family.";
-      font-family: "Roboto Mono";
-      font-size: 36px;
-      position: relative;
-      color: #21ebff;
-      display: block;
-      top: 80%;
-      left: 90%;
-      right: 0;
-      bottom: 0;
+.modal-title {
+color:#000;
 }
 
-.project3 {
-      background: url(../images/second-image.jpeg) no-repeat 50% 50%;
-      background-size: cover;
+.modal-footer {
+display:none;  
 }
-
-.project3::after {
-      content: "Digital Sales.";
-      font-family: "Roboto Mono";
-      font-size: 36px;
-      position: relative;
-      color: #21ebff;
-      display: block;
-      top: 80%;
-      left: -50%;
-      right: 0;
-      bottom: 0;
-}
-
-.project4 {
-      background: url(../images/second-image.jpeg) no-repeat 50% 50%;
-      background-size: cover;
-}
-
-.project4::after {
-      content: "Public Speaking.";
-      font-family: "Roboto Mono";
-      font-size: 36px;
-      position: relative;
-      color: #21ebff;
-      display: block;
-      top: 10%;
-      left: 90%;
-      right: 0;
-      bottom: 0;
-}
-
-@media(max-width: 768px) {
-      .project {
-            width: 90% !important;
-            margin: 14px auto;
-      }
-
-      .vertical {
-            display: none;
-      }
-
-      .project1::after, .project2::after, .project3::after, .project4::after {
-            display: none;
-      }
-}
-
 /*------------------ gallery section ends here ------------- */
-
