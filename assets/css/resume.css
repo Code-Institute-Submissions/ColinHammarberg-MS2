@@ -332,7 +332,7 @@ nav #menu li a:hover {
  
 .info li {
      font-weight: lighter;
-     color: #fff;
+     color: #21ebff;
      font-size: 18px;
      
 }
@@ -383,7 +383,7 @@ nav #menu li a:hover {
  
 #media, #address {
      text-align: center;
-     color: #fff;
+     color: #21ebff;
 }
  
 #media ul {
@@ -392,7 +392,7 @@ nav #menu li a:hover {
  
 #media ul li {
      display: inline-block;
-     color: #fff;
+     color: #21ebff;
 }
  
 @media(max-width: 768px) {
@@ -459,13 +459,6 @@ nav #menu li a:hover {
 .history {
    margin-bottom: 30px;
 }
-
-.row-table {
-    display: table;
-}
-
-
- 
  
 /*--------------- resume section ends here --------------- */
  

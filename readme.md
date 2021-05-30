@@ -43,6 +43,27 @@
 * (https://images.pexels.com/photos/1493296/pexels-photo-1493296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 * (https://images.pexels.com/photos/4252184/pexels-photo-4252184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 
+# TECHNOLOGIES USED 
+ 
+### HTML
+* The project uses HTML to get the content visual. The developer has been using HTML in all visual pages.
+ 
+### CSS
+* The project uses CSS to design all pages. I have put a lot of energy on the design and still am. I prefer to use external CSS, instead of internal CSS to achive a "better" code.
+
+### Javascript
+* The project uses Javascript. I have had minor difficulties with Javascript, but I think that so far it have turned our pretty well.
+
+### jQuery 
+* The project uses jQuery. I have added quite a lot of jQuery (but mostly the same code on all pages to receive an even functionality). 
+ 
+### FRAMEWORK
+* I have also been using Bootstrap 4, to achive a very well functioning framework and responsiveness. 
+ 
+### LANGUAGES
+* The project uses English as its standard language and an Lang=”en” attribute has also been implemented.
+
+
 
 
 
