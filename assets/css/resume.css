@@ -460,6 +460,11 @@ nav #menu li a:hover {
    margin-bottom: 30px;
 }
 
+.row-table {
+    display: table;
+}
+
+
  
  
 /*--------------- resume section ends here --------------- */

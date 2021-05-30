@@ -17,12 +17,33 @@
 1. [Gallery page Wireframes](https://github.com/ColinHammarberg/MS2/blob/64aab38479140b57ee7bf3249dce5bca5a2b3c41/documentation/Gallery%20Page.png)
 2. [Beatiful Mock-Ups]()
 
+# REASONS FOR DEVELOPMENT
+
 ##### I (Colin Hammarberg) am developing/building this resume platform for my beloved brother (Rasmus Hammarberg). The goal with the site is to create a unique resume site, where professional information can be found about Rasmus Hammarberg. I'm putting a lot of focus on the design, and also to implement functions, to create an extrodinary visual effect and interaction with the user. I will also be implementing an API (most probably a LinkedIn search motor API) and include Javascript for each and every page.
 
-### To-do list for tomorrow (29/05): 
-- Build the wireframes for the images in the gallery 
-- Upload all real images to the gallery. 
-- Create the downloadable button for the resume. 
-- Add the content / about text to the resume section. 
-- Upload the new mockups / wireframes  
+# FEATURES
+
+### All of the pages have been created with a mix of HTML, CSS, Javascript & jQuery. This is shown very clearly, especially on the landing page where a lot of things are happening with the jQuery functions. 
+
+* The <b>landing</b> page is the introduction of the website. The landing page gives the opportunity to the user to continue onto the visualisation of the Resume page (which is the main focus and goal for the site).
+* The <b>resume</b> page gives the user a lot of visual effects and functions. These fucntions and effects have been implemented to get the user to enjoy reading the "important" information. 
+* The <b>contact</b> page gives the user a possibility to contact Rasmus Hammarberg via the email form, which is currently connected to an auto-response (email support server). It also gives the user the visual enjoyment at its finest, according to myself at least. 
+* The <b>gallery</b> page offers a nice image gallery (created with HTML, CSS & javascript). It gives the user the possibility to visualize beatiful images provided by Rasmus Hammarberg. (Note that the gallery is currently made with images fetched from Pexels (free images))
+
+# CONTENT & IMAGES
+
+#### The most of my images that I have used so far are from Pexels. Down below you'll find the links for those images. 
+
+* (https://images.pexels.com/photos/7322119/pexels-photo-7322119.jpeg?cs=srgb&dl=pexels-cottonbro-7322119.jpg&fm=jpg)
+* (https://images.pexels.com/photos/7319480/pexels-photo-7319480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* (https://images.pexels.com/photos/7319470/pexels-photo-7319470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* (https://images.pexels.com/photos/7319481/pexels-photo-7319481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* (https://images.pexels.com/photos/1450155/pexels-photo-1450155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* (https://images.pexels.com/photos/1157936/pexels-photo-1157936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* (https://images.pexels.com/photos/1493296/pexels-photo-1493296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* (https://images.pexels.com/photos/4252184/pexels-photo-4252184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+
+
+
+
 
