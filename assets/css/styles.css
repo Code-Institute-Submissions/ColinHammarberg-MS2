@@ -106,7 +106,8 @@ nav #menu li a:hover {
       cursor: pointer;
       top: -2px;
       line-height: 80px;
-      color: #fff;
+      color: #21ebff;
+      padding-right: 10px;
 }
 
 #resize {
