@@ -387,6 +387,10 @@ nav #menu li a:hover {
      text-align: center;
      color: #21ebff;
 }
+
+#address a {
+    color: #21ebff;
+}
  
 #media ul {
      list-style: none;
