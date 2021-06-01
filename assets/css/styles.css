@@ -480,7 +480,11 @@ nav #menu li a:hover {
 
 #media, #address {
       text-align: center;
-      color: #fff;
+      color: #21ebff;
+}
+
+#address a {
+    color: #21ebff;
 }
 
 #media ul {
@@ -489,7 +493,7 @@ nav #menu li a:hover {
 
 #media ul li {
       display: inline-block;
-      color: #fff;
+      color: #21ebff;
 }
 
 @media(max-width: 768px) {
