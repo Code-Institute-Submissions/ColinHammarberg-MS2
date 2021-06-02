@@ -42,7 +42,7 @@ nav #brand {
 
 nav #brand a {
       color: #21ebff;
-      transition: all 0.6s ease-out;
+      transition: all 6s ease-out;
       text-shadow: 0 0 50px #21ebff;
       text-decoration: none;
 }
@@ -66,7 +66,7 @@ nav #menu li {
       font-weight: 300;
       line-height: 80px;
       position: relative;
-      transition: all 0.6s ease-out;
+      transition: all 6s ease-out;
 }
 
 nav #menu li span {

@@ -68,10 +68,8 @@
 1. While I'm working on this project, I receive a lot of tutoring from my close friend and now even colleague, Erik Wibom. Erik is a talented Software Engineer. When I'm stuck at some point in my projects, he tutors me and gives me a better understanding. 
 2. For the past few months I have been learning a lot from both Code Institute, but also from individual tutoring lessons and Youtube Tutorials which I believe is a real benefit. I have received a better understanding with CSS animations along side many other things from watching and coding alongside Youtube tutorials. I'm very grateful for all of the resources I can take usage of in my journey of becomming a software developer. 
 3. For my home page I received tutor lessons from Erik Wibom, and I'm actually really happy of how that page looks at this point. Thank you for the help Erik!
-4. For my gallery page I have received help from (https://bootsnipp.com/snippets/aMGnk). A beatiful platform to receive ideas and important specific coding.  
-
-
-
+4. For my gallery page I have received help from (https://bootsnipp.com/snippets/aMGnk). A beatiful platform to receive ideas and important specific coding.
+5. For my contact page I have connected the form to Email.js together with my sendEmail.js file. I have used my knowledge from code institute to accomplish this, combined with help from the code institute totor support, which was a big help. Thank you for helping me out John!
 
 
 
