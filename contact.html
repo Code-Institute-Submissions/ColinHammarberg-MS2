@@ -17,6 +17,12 @@
       <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
       <script src="assets/js/wow.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+      <script type="text/javascript">
+        (function() {
+        emailjs.init("user_22LiNU1eOXZpFayxqwqp6");
+        })();
+      </script>
 
 </head>
 <body>
@@ -97,10 +103,10 @@
               <br><br>
 
               <div class="container">
-                  <div class="form>
+                  <div class="form">
                       <div class="header"><h3></h3></div>
                         <div class="col-lg-12">
-                            <form name="contact-form" id="contact-form" method="post" action="https://formspree.io/f/xzbyerrj">
+                            <form name="contact-form" id="contact-form" onsubmit="return sendMail(this);" method="POST">
                                 <ul>
                                     <li class="wow fadeInUp" data-wow-delay="1.4s">
                                         <label for="contact-name">Name :</label>
@@ -186,20 +192,7 @@
       </div>
     </div>
 
-    
-
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
-<script type="text/javascript">
-(function() {
-emailjs.init("user_22LiNU1eOXZpFayxqwqp6");
-})();
-</script>
-<script>
-    /** 
-     User ID user_22LiNU1eOXZpFayxqwqp6
-     Access Token =8c0967722973c2d53e5c2e63d19f9a1a
-     */
-</script>
+    <script src="assets/js/email.js"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
     <!-- greensock cdn -->
