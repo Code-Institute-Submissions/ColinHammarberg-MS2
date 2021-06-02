@@ -704,7 +704,7 @@ nav #menu li a:hover {
     align-items: center;
 }
 
-#contact-form {
+#contactform {
      margin: auto;
      padding-top: 30px;
      
@@ -728,28 +728,28 @@ nav #menu li a:hover {
     visibility: hidden;
 }
 
-#contact-form ul {
+#contactform ul {
       list-style: none;
       border-radius: 5px;
       margin-bottom: 40px;
 }
 
-#contact-form li {
+#contactform li {
       padding: 10px;
 }
 
-#contact-form li:last-of-type {
+#contactform li:last-of-type {
       border-bottom: none;
 }
 
-#contact-form label {
+#contactform label {
       display: block;
       font-size: .8em;
       color: #21ebff;
       padding-left: 5px;
 }
 
-#contact-form input, #contact-form textarea {
+#contactform input, #contactform textarea {
       width: 100%;
       padding: 5px;
       border: none;
