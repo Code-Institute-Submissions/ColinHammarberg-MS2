@@ -172,6 +172,7 @@ nav #menu li a:hover {
       nav #brand {
             margin-left: 24px;
             color: #21ebff;
+            position: fixed;
       }
 
       #menu a {
@@ -186,12 +187,16 @@ nav #menu li a:hover {
 
       nav #menu {
             display: none;
+            position: fixed;
       }
 }
 
 @media(min-width: 768px) {
       #resize {
             visibility: hidden !important;
+      }
+      #menu {
+          position: fixed;
       }
 }
  
