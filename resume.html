@@ -99,6 +99,7 @@
                         <p>Partner & Customer Success Manager</p>
                     </div>
                 </div>
+                <div id="map"></div>
             </div>
         </div>
                 
@@ -215,8 +216,16 @@
     </div>
 
     <script> 
-    var APIKey = "AIzaSyB4EYIfyuoXcr6FAIldk-v0zV7uluGjtLA"
+    function initMap() {
+  map = new google.maps.Map(document.getElementById("map"), {
+    center: { lat: -34.397, lng: 150.644 },
+    zoom: 8,
+  });
+}
     </script>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB4EYIfyuoXcr6FAIldk-v0zV7uluGjtLA&callback=initMap"></script>
+
     <script src="assets/js/t.min.js"></script>
     <script src="assets/js/wow.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
