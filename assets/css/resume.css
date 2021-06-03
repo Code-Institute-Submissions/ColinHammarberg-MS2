@@ -469,7 +469,6 @@ nav #menu li a:hover {
 div#map {
     min-height: 360px;
 }
- 
 /*--------------- resume section ends here --------------- */
  
 /*--------------- article section begins here --------------- */
@@ -706,7 +705,8 @@ div#map {
 
 .form {
     align-items: center;
-}
+    margin-bottom: 80px;
+    }
 
 .contactform {
      margin: auto;
