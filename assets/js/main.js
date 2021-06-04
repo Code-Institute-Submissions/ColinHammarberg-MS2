@@ -1,3 +1,5 @@
+    /* Please note that this JS file is only for the index.html file */
+    
     $("#toggle").click(function(){
         $(this).toggleClass('on');
         $("#resize").toggleClass("active");
