@@ -290,7 +290,6 @@ nav #menu li a:hover {
      height: 20px;
      border-bottom: 4px solid #21ebff;
      border-right: 4px solid #21ebff;
-     -webkit-transform: translate(-50%, 0) rotate(45deg);
      animation: fade_move_down 3s cubic-bezier(0.19, 1, 0.22, 1) infinite;
 }
  
@@ -866,17 +865,9 @@ img.zoom {
     height: 200px;
     border-radius:10px;
     object-fit:cover;
-    -webkit-transition: all 0.7s ease-in-out;
-    -moz-transition: all 0.7s ease-in-out;
-    -o-transition: all 0.7s ease-in-out;
-    -ms-transition: all 0.7s ease-in-out;
+    transition: all 0.7s ease-in-out;
 }
-        
- 
 .transition {
-    -webkit-transform: scale(0.7); 
-    -moz-transform: scale(0.7);
-    -o-transform: scale(0.7);
     transform: scale(0.7);
 }
 
