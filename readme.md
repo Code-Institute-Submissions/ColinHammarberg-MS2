@@ -10,11 +10,7 @@
 
 # WIREFRAMES
 
-1. [Landing page Wireframes](https://github.com/ColinHammarberg/MS2/blob/64aab38479140b57ee7bf3249dce5bca5a2b3c41/documentation/Landing%20Page.png)
-1. [Contact page Wireframes](https://github.com/ColinHammarberg/MS2/blob/64aab38479140b57ee7bf3249dce5bca5a2b3c41/documentation/Contact%20Page.png)
-1. [Home page Wireframes](https://github.com/ColinHammarberg/MS2/blob/64aab38479140b57ee7bf3249dce5bca5a2b3c41/documentation/Home%20Page.png)
-1. [Resume page Wireframes](https://github.com/ColinHammarberg/MS2/blob/64aab38479140b57ee7bf3249dce5bca5a2b3c41/documentation/Resume%20Page.png)
-1. [Gallery page Wireframes](https://github.com/ColinHammarberg/MS2/blob/64aab38479140b57ee7bf3249dce5bca5a2b3c41/documentation/Gallery%20Page.png)
+1. [Desktop, Ipad & Mobile version Wireframes](https://lime-lobster-zikjq1jn.ws-eu08.gitpod.io/files/download/?id=143a75c3-dc00-4a3e-9c27-5dcb708d6e3f)
 2. [Beatiful Mock-Ups]()
 
 # REASONS FOR DEVELOPMENT
@@ -25,10 +21,11 @@
 
 ### All of the pages have been created with a mix of HTML, CSS, Javascript & jQuery. This is shown very clearly, especially on the landing page where a lot of things are happening with the jQuery functions. 
 
-* The <b>landing</b> page is the introduction of the website. The landing page gives the opportunity to the user to continue onto the visualisation of the Resume page (which is the main focus and goal for the site).
+* The <b>landing</b> page is the introduction of the website. The landing page gives the opportunity to the user to continue onto the visualisation of the Resume page (which is the main focus and goal for the site). The landing page is filled with different functions (jQuery & TweenMax as an example), to give the user a great first impression. The landing page also has many delayed functions, to make sure that the user enjoys every single bit of the website.
 * The <b>resume</b> page gives the user a lot of visual effects and functions. These fucntions and effects have been implemented to get the user to enjoy reading the "important" information. 
-* The <b>contact</b> page gives the user a possibility to contact Rasmus Hammarberg via the email form, which is currently connected to an auto-response (email support server). It also gives the user the visual enjoyment at its finest, according to myself at least. 
-* The <b>gallery</b> page offers a nice image gallery (created with HTML, CSS & javascript). It gives the user the possibility to visualize beatiful images provided by Rasmus Hammarberg. (Note that the gallery is currently made with images fetched from Pexels (free images))
+* The <b>contact</b> page gives the user a possibility to contact Rasmus Hammarberg via the email form, which is currently connected to Emailjs. It also gives the user the visual enjoyment at its finest, according to myself at least. 
+* The <b>gallery</b> page offers a nice image gallery (created with HTML, CSS, JavaScript & jQuery). It gives the user the possibility to visualize beatiful images provided by Rasmus Hammarberg. (Note that the gallery is currently made with images fetched from Pexels (free images))
+* The site also offers an Google Map JavaScript API, which shows the user where Rasmus Hammarberg's office is located. The API feature is located below the <b>contact</b> form (on the contact page).
 
 # CONTENT & IMAGES
 
@@ -66,10 +63,23 @@
 # ACKNOWLEDGEMENTS
 
 1. While I'm working on this project, I receive a lot of tutoring from my close friend and now even colleague, Erik Wibom. Erik is a talented Software Engineer. When I'm stuck at some point in my projects, he tutors me and gives me a better understanding. 
-2. For the past few months I have been learning a lot from both Code Institute, but also from individual tutoring lessons and Youtube Tutorials which I believe is a real benefit. I have received a better understanding with CSS animations along side many other things from watching and coding alongside Youtube tutorials. I'm very grateful for all of the resources I can take usage of in my journey of becomming a software developer. 
+2. For the past few months I have been learning a lot from both Code Institute, but also from individual tutoring lessons and Youtube Tutorials which I believe is a real benefit. I have received a better understanding with CSS animations along side with many other things from watching and coding alongside Youtube tutorials. I'm very grateful for all of the resources that I can take usage of in my journey of becomming a full stack software developer. 
 3. For my home page I received tutor lessons from Erik Wibom, and I'm actually really happy of how that page looks at this point. Thank you for the help Erik!
 4. For my gallery page I have received help from (https://bootsnipp.com/snippets/aMGnk). A beatiful platform to receive ideas and important specific coding.
-5. For my contact page I have connected the form to Email.js together with my sendEmail.js file. I have used my knowledge from code institute to accomplish this, combined with help from the code institute totor support, which was a big help. Thank you for helping me out John!
+5. For my contact page I have connected the form to Email.js together with my sendEmail.js file. I have used my knowledge from code institute to accomplish this, combined with help from the code institute tutor support team, which was a big help. Thank you for helping me out John!
+
+# DEPLOYMENT
+
+* The entire code has been written on GitPod and later on pushed to GitHub. I like pushing, or at least commiting my code very often. To make sure that no code is getting lost without my knowledge. 
+* When I push my code to GitHub from GitPod I'm writing five different steps in my terminal. 
+1. The first step that I always do is to save the code (by pressing "save all"). 
+2. The second step that I always do is to run "git status". This gives me an overview of which files I have left to push and save to GitHub. 
+3. The third step that I always do is to run "git add" and then followed by the file or folder that I would like to add. 
+4. The fourth step that I always do is to run "git commit -m "Here I write a comment. So that my commits to GitHub are well documented along the way. That makes it a a lot easier to locate which commit I have been making when looking back at them".
+5. The fifth and last step that I always run in my terminal is just a simple "git push". This takes all of the files that I have added and then afterwards commited and pushes them all to GitHub (where the files and all of the code will be stored in a proper way).
+
+* I'm always very careful with how I'm commiting my changes to GitHub and I'm always very well organized in my comments (after my "git commit -m" command), due to that I think it's very important to document along the way while writing code for a new project (or an old project). Because it helps you to easier find your way back if you need to head back and check your code out. Then it's really good to have your code commited in a proper and organized way.
+
 
 
 
