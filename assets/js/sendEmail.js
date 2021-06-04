@@ -1,5 +1,10 @@
+(function() {
+        emailjs.init("user_22LiNU1eOXZpFayxqwqp6");
+        emailjs.send("gmail", "service_1b7fsmk", "Rasmus", "template_vksdp0na");
+        })();
+
 function sendMail(contactForm) {
-    emailjs.send("colin", "rasmus", {
+    emailjs.send("gmail", "service_1b7fsmk", {
          "from_name": contactForm.contact-name.value,
          "from_email": contactForm.contact-email.value,
          "project_request": contactForm.contact-project.value
