@@ -188,60 +188,16 @@
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB4EYIfyuoXcr6FAIldk-v0zV7uluGjtLA&callback=initMap"></script>
     <script src="assets/js/maps.js"></script>
-     
-
     <!-- Google Map JavaScript API Ends-->
 
     <!-- Other script tags begin-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
-    <!-- greensock cdn -->
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js"></script>
-      <script src="assets/js/wow.min.js"></script>
-      <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
-      <script src="assets/js/sendEmail.js"></script> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+    <script src="assets/js/sendEmail.js"></script>
+    <script src="assets/js/menu.js"></script>
     <!-- Other script tags end-->
-         <script type="text/javascript">   
-// navigation functions on mobile & ipad devices begins here
-    
-    $("#toggle").click(function(){
-        $(this).toggleClass('on');
-        $("#resize").toggleClass("active");
-    });
-
-    $("#resize ul li a").click(function(){
-        $(this).toggleClass('on');
-        $("#resize").toggleClass("active");
-    });
-
-    $(".close-btn").click(function(){
-        $(this).toggleClass('on');
-        $("#resize").toggleClass("active");
-    });
-
-      // navigation functions on mobile & ipad devices ends here
-
-    // navigation animations begins here
-
-    TweenMax.from("#brand", 1, {
-        delay: 0.6,
-        y: 10,
-        opacity: 0,
-        ease: Expo.easeInOut
-    })
-
-    TweenMax.staggerFrom("#menu li a", 1, {
-        delay: 0.8,
-        opacity: 0,
-        ease: Expo.easeInOut
-    }, 0.1);
-
-    anime.timeline()
-
-    new WOW().init();
-
-    // navigation animations ends here  
-    </script>
-    
 </body>
 </html>
