@@ -836,8 +836,15 @@ textarea:focus {
     height: 100%;
 }
 
+.map-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
 .map-header h1 {
     color: #21ebff;
+    text-transform: uppercase;
+    font-size: 18px;
 }
 
 
