@@ -836,6 +836,10 @@ textarea:focus {
     height: 100%;
 }
 
+.map-header h1 {
+    color: #21ebff;
+}
+
 
 /*------------------ contact form section ends here ------------- */
 
