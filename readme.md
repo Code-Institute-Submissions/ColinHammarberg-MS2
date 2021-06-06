@@ -80,6 +80,14 @@
 
 * I'm always very careful with how I'm commiting my changes to GitHub and I'm always very well organized in my comments (after my "git commit -m" command), due to that I think it's very important to document along the way while writing code for a new project (or an old project). Because it helps you to easier find your way back if you need to head back and check your code out. Then it's really good to have your code commited in a proper and organized way.
 
+# TESTING
+
+### I have been conducting the following tests on the developed website. 
+
+1. The landing page has been tested in form of pressing all navigation bar selections, which should lead to the appointed pages (home), (resume), (contact), (gallery). 
+* The landing page has also been tested in form of checking so that all functions are working smoothly. I have also checked my code very carefully, to make sure that it's accurate. 
+*
+
 
 
 
