@@ -67,6 +67,8 @@
 3. For my home page I received tutor lessons from Erik Wibom, and I'm actually really happy of how that page looks at this point. Thank you for the help Erik!
 4. For my gallery page I have received help from (https://bootsnipp.com/snippets/aMGnk). A beatiful platform to receive ideas and important specific coding.
 5. For my contact page I have connected the form to Email.js together with my sendEmail.js file. I have used my knowledge from code institute to accomplish this, combined with help from the code institute tutor support team, which was a big help. Thank you for helping me out John!
+6. For my article section I have taken inspiration from (https://www.youtube.com/watch?v=PuckVFM5_0Y) and I would like to express my gratitute to (Online Tutorials) for learning me how to create these kind of cool effects. 
+7. I would like to express my gratitute to Erik Wibom for helping me and for spending countless hours teaching me on his free time. It really means a lot to me. So, thank you man!
 
 # DEPLOYMENT
 
