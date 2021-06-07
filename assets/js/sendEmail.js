@@ -1,4 +1,4 @@
-function sendMail(contactForm) {
+function send(contactForm) {
     emailjs.send("gmail", "service_1b7fsmk", {
          "from_name": contactForm.contact-name.value,
          "from_email": contactForm.contact-email.value,
@@ -13,4 +13,5 @@ function sendMail(contactForm) {
         }
     );
     return false;  // To block from loading a new page
+
 }

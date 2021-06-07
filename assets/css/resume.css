@@ -470,9 +470,15 @@ nav #menu li a:hover {
    margin-bottom: 30px;
 }
 
+/*--------------- Google map JavaScript API begins here --------------- */
+
+
 div#map {
     min-height: 360px;
 }
+
+/*--------------- Google map JavaScript API ends here --------------- */
+
 /*--------------- resume section ends here --------------- */
  
 /*--------------- article section begins here --------------- */
