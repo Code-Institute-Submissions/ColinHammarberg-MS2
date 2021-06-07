@@ -4,7 +4,7 @@
     center: { lat: 40.7400267, lng: -73.9935017 },
     zoom: 8,
   });
-}
+
 
     var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
@@ -20,3 +20,4 @@
     });
 
 var markerCluster = new MarkerClusterer(map, markers, { imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m' });
+}
