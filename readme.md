@@ -82,6 +82,18 @@
 
 * I'm always very careful with how I'm commiting my changes to GitHub and I'm always very well organized in my comments (after my "git commit -m" command), due to that I think it's very important to document along the way while writing code for a new project (or an old project). Because it helps you to easier find your way back if you need to head back and check your code out. Then it's really good to have your code commited in a proper and organized way.
 
+### Cloning Github Code by downloading ZIP code
+* If you wish to clone my code (which is a public published code) you are free to do so. Please follow the steps down below to accomplish the cloning procedure:
+1. Copy this link and place it in a new window (https://github.com/ColinHammarberg/MS2). 
+2. Click on the "Code" button and select "HTTPS" to get the required options for cloning. 
+3. Click on the "Download ZIP" to download the code files. 
+
+### Cloning Github code by terminal
+1. Copy this link and place it in a new window (https://github.com/ColinHammarberg/MS2). 
+2. Click on the "Code" button and select "GitHub CLI" to get the required options for cloning. 
+3. Copy the text "gh repo clone ColinHammarberg/MS2" and place it in your terminal. 
+4. Press enter and it should begin downloading accordingly
+
 # TESTING
 
 ### I have been conducting the following tests on the developed website (Computer screen). 
