@@ -60,6 +60,12 @@
 ### LANGUAGES
 * The project uses English as its standard language and an Lang=”en” attribute has also been implemented.
 
+# CREDITS
+
+* I would like to thank multiple people, for helping me along the way with my Second Milestone Project. The first individual that I would like to thank is Erik Wibom. Erik has helped me along the way and if I ever have any issues with the code that I've written, Erik is always there to help and give me feedback. So, a big THANK YOU Erik!
+* The second individual that I would like to thank is my Mentor Gurjot. Thank you for helping me along the way and giving me feedback on my projects. I'm super grateful! THANK YOU Gurjot!
+* I would also like to thank the Tutor Support Team at Code Institute. They are always there to help me and are always really quick. Much appreciated guys!
+
 # ACKNOWLEDGEMENTS
 
 1. While I'm working on this project, I receive a lot of tutoring from my close friend and now even colleague, Erik Wibom. Erik is a talented Software Engineer. When I'm stuck at some point in my projects, he tutors me and gives me a better understanding. 
