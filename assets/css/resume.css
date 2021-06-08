@@ -226,7 +226,7 @@ nav #menu li a:hover {
    }
  
    to {
-       width: 20em;
+       width: 18em;
    }
  
 }
@@ -269,7 +269,7 @@ nav #menu li a:hover {
  
 @media(max-width: 768px) {
    .header h1 {
-       font-size: 19px;
+       font-size: 18px; 
    }
 }
  
@@ -419,55 +419,46 @@ nav #menu li a:hover {
 /*--------------- footer section ends here --------------- */
  
 /*--------------- resume section begins here --------------- */
- 
-.timeline {
-   padding: 4em 2em 0em 2em;
-   position: relative;
-   color: #fff;
-   border-left: 1px solid;
-   margin-left: 50px;
-   padding-bottom: 40px;
+
+.about-h1 h1 {
+    text-align: center;
+    font-size: 28px;
+    padding-top: 20px;
+    color: #21ebff;
+    text-decoration: underline;
 }
- 
-.timeline p {
-   padding: 0;
-   margin: 0;
-   padding-bottom: 10px;
+
+.about-me h3 {
+    text-align: center;
+    font-size: 22px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    color: #21ebff;
+    letter-spacing: 0.8px;
 }
- 
-.timeline::before {
-   content: attr(data-dates);
-   position: absolute;
-   left: 2.5em;
-   top: 3em;
-   display: block;
-   font-weight: 500;
-   font-size: .8em;
-   padding: 0;
-   margin: 0;
+
+.resume-btn {
+    text-align: center;
+    padding-bottom: 60px;
 }
- 
-.timeline::after {
-   width: 14px;
-   height: 14px;
-   display: block;
-   top: 2.4em;
-   position: absolute;
-   left: -7.5px;
-   border-radius: 12px;
-   content: '';
-   background: #fff;
+
+.resume-btn a {
+   display: inline-block;
+   margin-top: 15px;
+   padding: 10px 15px;
+   background-color: #fff;
+   color: #000;
+   text-decoration: none;
+   text-transform: uppercase;
+   font-weight: 600;
+   border-radius: 10px;
 }
- 
-.history-heading {
-   color: #fff;
-   margin-bottom: 50px;
-   margin-left: 50px;
-   margin-top: 50px;
-}
- 
-.history {
-   margin-bottom: 30px;
+
+.resume-btn a:hover {
+   background-color: #21ebff;
+   color: #111;
+   box-shadow: 0 0 50px #21ebff;
+   transition-delay: 0.5s;
 }
 
 /*--------------- Google map JavaScript API begins here --------------- */
