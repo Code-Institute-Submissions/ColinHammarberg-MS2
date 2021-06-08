@@ -199,6 +199,12 @@ nav #menu li a:hover {
           position: fixed;
       }
 }
+
+@media(max-width: 768px) {
+    nav #brand a {
+            font-size: 18px;
+      }
+}
  
 /*------------------ navbar ends here ------------- */
  

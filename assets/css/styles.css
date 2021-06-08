@@ -198,6 +198,11 @@ nav #menu li a:hover {
       }
 }
 
+@media(max-width: 768px) {
+    nav #brand a {
+            font-size: 18px;
+      }
+}
 /*------------------ navbar ends here ------------- */
 
 /* The loader & Landing page image  */
