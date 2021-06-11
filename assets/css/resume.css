@@ -487,8 +487,17 @@ div#map {
   justify-content: center;
 }
 
+.article-h1 {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
 .article-h1 h1 {
     text-align: center;
+    font-size: 28px;
+    color: #21ebff;
+    text-transform: uppercase;
+    text-decoration: underline;
 }
  
 .card {
@@ -564,6 +573,8 @@ div#map {
 .card:hover .content h3 {
    opacity: 1;
 }
+
+
  
 /*--------------- button on article section --------------- */
  
