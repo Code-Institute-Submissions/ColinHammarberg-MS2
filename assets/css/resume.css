@@ -486,6 +486,10 @@ div#map {
   margin: auto;
   justify-content: center;
 }
+
+.article-h1 h1 {
+    text-align: center;
+}
  
 .card {
    position: relative;
