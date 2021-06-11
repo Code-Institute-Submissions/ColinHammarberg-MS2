@@ -102,24 +102,28 @@
 
 # TESTING
 
-### I have been conducting the following tests on the developed website (Computer screen). 
+### I have been conducting the following tests on the developed website (Macbook Air M1 + External Screen). 
 
-#### Landing Page
+#### Landing Page (Macbook Air M1 + External Screen)
 * The landing page has been tested in form of pressing all navigation bar selections, which should lead to the appointed pages (home), (resume), (contact), (gallery). 
 * The landing page has also been tested in form of checking so that all functions are working smoothly. I have also checked my code very carefully, to make sure that it's accurate. 
 
-#### Resume Page
+#### Resume Page (Macbook Air M1 + External Screen)
 * The resume page has also been tested in form of checking so that all of the functions are accurate according to what's actually happening on the screen when a user is interfacing with the website. All of the navigation bar selections have been tested, so as the footer selections and the buttons which lead to articles written by Rasmus Hammarberg. 
 
-#### Contact Page
+#### Contact Page (Macbook Air M1 + External Screen)
 * The contact page has had a different testing method. All of the ordinary features has been tested, but the contact page also contains a contact form, which features EmailJS. This feature has been tested by sending ten emails (from both ordinary email addresses, but also mailinator addresses), to make sure that all new contact requests are registered on my EmailJS server (with the accuarte Service ID & Email Template). 
 * The contact page also features a Google Maps JavaScript Api which shows where Rasmus Hammarberg is actually located (in New York). 
 
-#### Gallery Page
+#### Gallery Page (Macbook Air M1 + External Screen)
 * The gallery page has been tested in form of pressing all navigation bar selections, which should lead to the appointed pages (home), (resume), (contact), (gallery). 
 * The gallery page also features a beatiful and functioning responsive image gallery, where the user can scroll through images taken of Rasmus Hammarberg. This has been tested by hovering over (where it gets zoomed in) and by pressing any of the images. When pressing any of the images, the user gets to vusualize the images on a bigger screen and gets to scroll through the album in a beatiful and responsive way. (Plase note that currently the images in the gallery are free images linked from Pexels.com).
 
-### I have been conducting the following tests on the developed website (Ipad screen).
+### Overall testing
+* I have also tested the platform with connecting 10 devices at the same time. Just to make sure that nothing would crash. It worked fine. 
+* I have also placed my URL in a code validator service to make sure that there are no issues with the general code.
+
+### I have been conducting the following tests on the developed website (Ipad Pro Screen).
 
 
 #### Landing Page (Ipad Screen)
@@ -129,33 +133,41 @@
 #### Resume Page (Ipad Screen)
 * The resume page has also been tested in form of checking so that all of the functions are accurate according to what's actually happening on the screen when a user is interfacing with the website. All of the navigation bar selections have been tested, so as the footer selections and the buttons which lead to articles written by Rasmus Hammarberg. 
 
-#### Contact Page
+#### Contact Page (Ipad Screen)
 * The contact page has had a different testing method. All of the ordinary features has been tested, but the contact page also contains a contact form, which features EmailJS. This feature has been tested by sending ten emails (from both ordinary email addresses, but also mailinator addresses), to make sure that all new contact requests are registered on my EmailJS server (with the accuarte Service ID & Email Template). 
 * The contact page also features a Google Maps JavaScript Api which shows where Rasmus Hammarberg is actually located (in New York). 
 
-#### Gallery Page
+#### Gallery Page (Ipad Screen)
 * The gallery page has been tested in form of pressing all navigation bar selections, which should lead to the appointed pages (home), (resume), (contact), (gallery). 
 * The gallery page also features a beatiful and functioning responsive image gallery, where the user can scroll through images taken of Rasmus Hammarberg. This has been tested by hovering over (where it gets zoomed in) and by pressing any of the images. When pressing any of the images, the user gets to vusualize the images on a bigger screen and gets to scroll through the album in a beatiful and responsive way. The Ipad version's gallery scales down to fit an Ipad device nicely. (Plase note that currently the images in the gallery are free images linked from Pexels.com).
 
-#### Responsiveness
+### Overall testing
+* I have also tested the platform with connecting 10 devices at the same time. Just to make sure that nothing would crash. It worked fine. 
+* I have also placed my URL in a code validator service to make sure that there are no issues with the general code.
+
+#### Responsiveness (Ipad Screen)
 * The webiste's responsiveness, framework and user-interface has also been tested on all pages using both the inspect selection through Google Chrome and on an actual Ipad Pro device.
 
-### I have been conducting the following tests on the developed website (Mobile screen).
+### I have been conducting the following tests on the developed website (Mobile Screen).
 
 * The landing page has been tested in form of pressing all navigation bar selections, which should lead to the appointed pages (home), (resume), (contact), (gallery). 
 * The landing page has also been tested in form of checking so that all functions are working smoothly. I have also checked my code very carefully, to make sure that it's accurate. 
 
-#### Resume Page (Ipad Screen)
+#### Resume Page (Mobile Screen)
 * The resume page has also been tested in form of checking so that all of the functions are accurate according to what's actually happening on the screen when a user is interfacing with the website. All of the navigation bar selections have been tested, so as the footer selections and the buttons which lead to articles written by Rasmus Hammarberg. 
 
-#### Contact Page
+#### Contact Page (Mobile Screen)
 * The contact page has had a different testing method. All of the ordinary features has been tested, but the contact page also contains a contact form, which features EmailJS. This feature has been tested by sending ten emails (from both ordinary email addresses, but also mailinator addresses), to make sure that all new contact requests are registered on my EmailJS server (with the accuarte Service ID & Email Template). 
 * The contact page also features a Google Maps JavaScript Api which shows where Rasmus Hammarberg is actually located (in New York). 
 
-#### Gallery Page
+#### Gallery Page (Mobile Screen)
 * The gallery page has been tested in form of pressing all navigation bar selections, which should lead to the appointed pages (home), (resume), (contact), (gallery). 
 * The gallery page also features a beatiful and functioning responsive image gallery, where the user can scroll through images taken of Rasmus Hammarberg. This has been tested by hovering over (where it gets zoomed in) and by pressing any of the images. When pressing any of the images, the user gets to vusualize the images on a bigger screen and gets to scroll through the album in a beatiful and responsive way. The Ipad version's gallery scales down to fit an Ipad device nicely. (Plase note that currently the images in the gallery are free images linked from Pexels.com).
 
-#### Responsiveness
+#### Responsiveness (Mobile Screen)
 * The webiste's responsiveness, framework and user-interface has also been tested on all pages using both the inspect selection through Google Chrome and on an actual Ipad Pro device.
+
+### Overall testing 
+* I have also tested the platform with connecting 10 devices at the same time. Just to make sure that nothing would crash. It worked fine. 
+* I have also placed my URL in a code validator service to make sure that there are no issues with the general code.
 

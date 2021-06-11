@@ -412,7 +412,7 @@ nav #menu li a:hover {
      color: #21ebff;
 }
  
-@media(max-width: 768px) {
+@media(max-width: 1068px) {
      .collab, #personal, #media, #address {
            text-align: center;
      }
