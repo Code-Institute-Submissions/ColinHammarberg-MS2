@@ -333,6 +333,7 @@ nav #menu li a:hover {
 .info h4 {
      font-size: 18px;
      font-weight: lighter;
+     color: #21ebff;
      
 }
  
@@ -342,7 +343,7 @@ nav #menu li a:hover {
      
 }
  
-.info li {
+.info li a {
      font-weight: lighter;
      color: #21ebff;
      font-size: 18px;
@@ -350,7 +351,7 @@ nav #menu li a:hover {
 }
  
  
-#li::before {
+#li::before  {
      display: inline-block;
      content: '';
      border-radius: 100%;
@@ -361,7 +362,7 @@ nav #menu li a:hover {
 }
  
  
-#ig::before {
+#ig::before  {
      display: inline-block;
      content: '';
      border-radius: 100%;
@@ -372,7 +373,7 @@ nav #menu li a:hover {
 }
  
  
-#tw::before {
+#tw::before  {
      display: inline-block;
      content: '';
      border-radius: 100%;
@@ -383,7 +384,7 @@ nav #menu li a:hover {
 }
  
  
-#yt::before {
+#yt::before  {
      display: inline-block;
      content: '';
      border-radius: 100%;
@@ -393,7 +394,7 @@ nav #menu li a:hover {
      background: #21ebff;
 }
  
-#media, #address {
+#media, #address a {
      text-align: center;
      color: #21ebff;
 }

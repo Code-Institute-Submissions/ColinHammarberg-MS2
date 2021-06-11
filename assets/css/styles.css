@@ -398,7 +398,7 @@ nav #menu li a:hover {
       font-weight: lighter;
 }
 
-.info li {
+.info li a {
       font-weight: lighter;
       font-size: 18px;
       padding-left: 20px;
