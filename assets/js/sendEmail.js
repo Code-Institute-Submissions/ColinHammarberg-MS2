@@ -1,9 +1,7 @@
-const newLocal = false;
-function send(contactForm) {
+function send() {
     emailjs.send("service_1b7fsmk", "template_vksdp0na") ({
-         "from_name": contactForm.contact-name.value,
-         "from_email": contactForm.contact-email.value,
-         "project_request": contactForm.contact-project.value
+         "from_name": "Rasmus",
+         "from_email": "colin.hammarberg2@gmail.com",
     })
     
     .then(
