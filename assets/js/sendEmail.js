@@ -1,7 +1,7 @@
 function send() {
     emailjs.send("service_1b7fsmk", "template_vksdp0na") ({
          "from_name": "Rasmus",
-         "from_email": "colin.hammarberg2@gmail.com",
+         "from_email": "colin.hammarberg2@gmail.com"
     })
     
     .then(
