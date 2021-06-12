@@ -1,3 +1,4 @@
+const newLocal = false;
 function send(contactForm) {
     emailjs.send("service_1b7fsmk", "template_vksdp0na") ({
          "from_name": contactForm.contact-name.value,
@@ -13,6 +14,6 @@ function send(contactForm) {
             console.log("FAILED", error);
         }
     );
-    return true;  // To block from loading a new page
-
+    return false;  // To block from loading a new page
 }
+
