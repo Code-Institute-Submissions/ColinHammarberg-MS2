@@ -1,6 +1,8 @@
 # RASMUS HAMMARBERG
  
 #### The RASMUS HAMMARBERG resume website was created for every single individual who wants to find out more information about Rasmus Hammarberg. The website is basic, but a different kind of resume and informational page.
+
+<img src="https://browser-blush-barnacle-p7ejyp38.ws-eu09.gitpod.io/workspace/MS2/documentation/Mock-Up.png">
  
 # UX
  
@@ -11,7 +13,7 @@
 # WIREFRAMES
 
 1. [Desktop, Ipad & Mobile version Wireframes](https://red-possum-uwbatxnt.ws-eu08.gitpod.io/files/download/?id=57e9543c-3f8e-4f54-9c53-18b6c3434adc)
-2. [Beatiful Mock-Ups]()
+2. [Beatiful Mock-Ups](https://browser-blush-barnacle-p7ejyp38.ws-eu09.gitpod.io/workspace/MS2/documentation/Mock-Up.png)
 
 # REASONS FOR DEVELOPMENT
 
@@ -29,7 +31,7 @@
 
 # CONTENT & IMAGES
 
-#### The most of my images that I have used so far are from Pexels. Down below you'll find the links for those images. 
+#### The most of my images that I have used so far are from Pexels. Down below you'll find the links for those images. Please note that the reason for why Pexels images are integrated is because of that my Brother does not want to put his own images online at this point.
 
 * (https://images.pexels.com/photos/7322119/pexels-photo-7322119.jpeg?cs=srgb&dl=pexels-cottonbro-7322119.jpg&fm=jpg)
 * (https://images.pexels.com/photos/7319480/pexels-photo-7319480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
@@ -53,6 +55,8 @@
 
 ### jQuery 
 * The project uses jQuery. I have added quite a lot of jQuery (but mostly the same code on all pages to receive an even functionality). 
+
+### GSAP (Robust JavaScript Toolset, used for animations)
  
 ### FRAMEWORK
 * I have also been using Bootstrap 4, to achive a very well functioning framework and responsiveness. 
