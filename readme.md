@@ -12,7 +12,7 @@
 
 ### I (Colin Hammarberg) am developing/building this resume and informational platform for my beloved brother (Rasmus Hammarberg). The goal with the site is to create a unique resume site, where professional information can be found about Rasmus Hammarberg. I'm putting a lot of focus on the design, and also to implement functions, to create an extrodinary visual effect and interaction with the user. I will also be implementing an API (most probably a Google Map JavaScript API) and include Javascript for each and every page.
 
-<a href="" target="_blank"><img src="/documentation/Mock-Up.png" alt="Book Bites mobile Screen"></a>
+<a href="" target="_blank"><img src="/documentation/Mock-up-img.png" alt="Book Bites mobile Screen"></a>
 
 # TECHNOLOGIES USED 
  
@@ -60,7 +60,7 @@
 
 ### Home page/Landing page 
 
-<a href="" target="_blank"><img src="/documentation/Landing-page-img.png" alt="Book Bites mobile Screen"></a>
+<a href="" target="_blank"><img src="/documentation/Home-page-img.png" alt="Book Bites mobile Screen"></a>
 
 - The landing page contains a couple of cool elements and effects. It contains a landing image, combined with some nice linked wordings.
 - The landing page also contains a footer section in the bottom of the page. 
@@ -182,9 +182,10 @@
 * The code has been run through validators, to make sure that the code is stable and accurate.
 - HTML (https://validator.w3.org/)
 - CSS (https://jigsaw.w3.org/css-validator/)
+- Please note that when I ran the HTML code through https://validator.w3.org/ it told me to change the dublicated menu id's. I have not changed it. The reason for this is that it works fine even though the dublicated menu id's and is not compromising the website in a bad way.
 
 # UNFIXED BUGS 
-* There was a problem with the delay of the footer elements on my home/landing page, which I couldn't seem to accomplish. I believe that it crashed a bit with the other functions of the home/landing page. I will look into how I'm able to accomplish that in the near future. 
+* I have used dublicated menu id's to achieve my main menu and my rezise menu (for Ipad & Mobile usage). This will most probably be changed in the future, but currently it is not compromising the website in a bad way and therefor I have made the decision to not make any changes to it at this stage. 
 
 # DEPLOYMENT
 
@@ -230,7 +231,7 @@ The live link can be found here - (https://colinhammarberg.github.io/MS2/)
 * For my gallery page I have received help from (https://bootsnipp.com/snippets/aMGnk). A beatiful platform to receive ideas and important specific coding.
 * For my article section I have taken inspiration from (https://www.youtube.com/watch?v=PuckVFM5_0Y) and I would like to express my gratitute to (Online Tutorials) for learning me how to create these kind of cool effects.
 * For my contact page I have connected the form to Email.js together with my sendEmail.js file. I have used my knowledge from code institute to accomplish this, combined with help from the code institute tutor support team, which was a big help. Thank you for helping me out John! 
-* I made my menu a little bit different from my previous projects. This kind of menu (with a resize & close-btn function) was inspired by https://github.com/codegridweb and some tutoring lessons from Erik Wibom. I learned this kind of menu functions a couple of months ago, by building a personal project for fun and wanted to use the same kind of menu design in this project as well. 
+* I made my menu a little bit different from my previous projects. This kind of menu (with a resize & close-btn function) was inspired by https://github.com/codegridweb and some tutoring lessons from Erik Wibom. I learned this kind of menu functions a couple of months ago, by building a personal project for fun and wanted to use the same kind of menu design in this project as well. So thank you CodeGrid for teaching me how to make different kinds of menu versions. Much appreciated. 
 
 # ACKNOWLEDGEMENTS
 
