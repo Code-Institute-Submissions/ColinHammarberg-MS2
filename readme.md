@@ -179,9 +179,10 @@
 * My experience with the testing procedure was good and I did not find any bugs that would keep the user to have a pleasant webpage experience. 
 
 # CODE VALIDATOR
-* The code has been run through validators, to make sure that the code is stable and accurate.
+* The code has been run through validators, to make sure that the code is stable and accurate. The JavaScript validator has been used while coding the project and has been helpful in forms of detecting errors in small parts of the code while coding.
 - HTML (https://validator.w3.org/)
 - CSS (https://jigsaw.w3.org/css-validator/)
+- JavaScript Validator (https://jshint.com/)
 - Please note that when I ran the HTML code through https://validator.w3.org/ it told me to change the dublicated menu id's. I have not changed it. The reason for this is that it works fine even though the dublicated menu id's and is not compromising the website in a bad way.
 
 # UNFIXED BUGS 
