@@ -42,8 +42,8 @@
 
 # WIREFRAMES
 
-1. [Desktop, Ipad & Mobile version Wireframes](https://blush-barnacle-p7ejyp38.ws-eu09.gitpod.io/files/download/?id=ad395920-122c-420b-b1ca-bab2ef1d699f)
-2. [Beatiful Mock-Ups](https://browser-blush-barnacle-p7ejyp38.ws-eu09.gitpod.io/workspace/MS2/documentation/Mock-Up.png)
+1. [Desktop, Ipad & Mobile version Wireframes](https://black-damselfly-dkjdgjk4.ws-eu09.gitpod.io/files/download/?id=863ee85c-5c72-481b-b18f-80eaf8d61a1d)
+2. [Beatiful Mock-Ups](https://black-damselfly-dkjdgjk4.ws-eu09.gitpod.io/files/download/?id=9ecacdb3-4c81-4312-8b34-1dd2674f6c45)
 
 # FEATURES
 
