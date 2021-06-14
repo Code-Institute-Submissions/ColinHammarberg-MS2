@@ -96,6 +96,12 @@
 
 - If the user would like to download Rasmus Hammarberg's beatiful CV/Resume, then the user could do so by clicking on the "Download CV" options.
 
+### Features left to implement
+
+* In the future I would like to find a Linkedin API search motor (provided by Linkedin) for the user to have the option to make profile searches on Linkedin via the Rasmus Hammarberg platform.
+* I would also like to integrate SPCE (which is the company that Rasmus Hammaarberg works for). Where the user could have the option to schedule an appointment or a demo by a meeting scheduling tool. Then the meeting would take place via SPCE (which is a digital B2B sales tool).
+* I would also like to change my Email function and contact area. Now I have been using EmailJS, but would in the future be very possitive to use other features to accomplish a better email communication with the users. Due to that I think EmailJS is very simple and easy to use/accomplish, but it's difficult to accomplish an automatic response with your users (in form of automatic responses to the registered email address).
+
 
 <br>
 <br>
@@ -124,8 +130,7 @@
 
 ### I have been conducting the following tests on the developed website (Ipad Pro Screen).
 
-
-#### Landing Page (Ipad Screen)
+#### Home/Landing Page (Ipad Screen)
 * The landing page has been tested in form of pressing all navigation bar selections, which should lead to the appointed pages (home), (resume), (contact), (gallery). 
 * The landing page has also been tested in form of checking so that all functions are working smoothly. I have also checked my code very carefully, to make sure that it's accurate. 
 
@@ -148,6 +153,8 @@
 
 ### I have been conducting the following tests on the developed website (Mobile Screen).
 
+
+#### Home/Landing Page (Mobile Screen)
 * The landing page has been tested in form of pressing all navigation bar selections, which should lead to the appointed pages (home), (resume), (contact), (gallery). 
 * The landing page has also been tested in form of checking so that all functions are working smoothly. I have also checked my code very carefully, to make sure that it's accurate. 
 
@@ -168,10 +175,16 @@
 #### Overall testing 
 * I have also tested the platform with connecting 10 devices at the same time. Just to make sure that nothing would crash. It worked fine. 
 
+#### Comment about testing period
+* My experience with the testing procedure was good and I did not find any bugs that would keep the user to have a pleasant webpage experience. 
+
 # CODE VALIDATOR
 * The code has been run through validators, to make sure that the code is stable and accurate.
 - HTML (https://validator.w3.org/)
 - CSS (https://jigsaw.w3.org/css-validator/)
+
+# UNFIXED BUGS 
+* There was a problem with the delay of the footer elements on my home/landing page, which I couldn't seem to accomplish. I believe that it crashed a bit with the other functions of the home/landing page. I will look into how I'm able to accomplish that in the near future. 
 
 # DEPLOYMENT
 
@@ -213,17 +226,19 @@ The live link can be found here - (https://colinhammarberg.github.io/MS2/)
 
 * I would like to thank multiple people, for helping me along the way with my Second Milestone Project. The first individual that I would like to thank is Erik Wibom. Erik has helped me along the way and if I ever have any issues with the code that I've written, Erik is always there to help and give me feedback. So, a big THANK YOU Erik!
 * The second individual that I would like to thank is my Mentor Gurjot. Thank you for helping me along the way and giving me feedback on my projects. I'm super grateful! THANK YOU Gurjot!
-* I would also like to thank the Tutor Support Team at Code Institute. They are always there to help me and are always really quick. Much appreciated guys!
+* I have learned the typewriter effect from wathing and repeating after this youtube tutorial (https://www.youtube.com/watch?v=9ciubFUYYuM) which has been a real benefit for me to get a better understanding of these effects and how to accomplish them.
+* For my gallery page I have received help from (https://bootsnipp.com/snippets/aMGnk). A beatiful platform to receive ideas and important specific coding.
+* For my article section I have taken inspiration from (https://www.youtube.com/watch?v=PuckVFM5_0Y) and I would like to express my gratitute to (Online Tutorials) for learning me how to create these kind of cool effects.
+* For my contact page I have connected the form to Email.js together with my sendEmail.js file. I have used my knowledge from code institute to accomplish this, combined with help from the code institute tutor support team, which was a big help. Thank you for helping me out John! 
 
 # ACKNOWLEDGEMENTS
 
 1. While I'm working on this project, I receive a lot of tutoring from my close friend and now even colleague, Erik Wibom. Erik is a talented Software Engineer. When I'm stuck at some point in my projects, he tutors me and gives me a better understanding. 
 2. For the past few months I have been learning a lot from both Code Institute, but also from individual tutoring lessons and Youtube Tutorials which I believe is a real benefit. I have received a better understanding with CSS animations along side with many other things from watching and coding alongside Youtube tutorials. I'm very grateful for all of the resources that I can take usage of in my journey of becomming a full stack software developer. 
 3. For my home page I received tutor lessons from Erik Wibom, and I'm actually really happy of how that page looks like at this point. Thank you for the help Erik!
-4. For my gallery page I have received help from (https://bootsnipp.com/snippets/aMGnk). A beatiful platform to receive ideas and important specific coding.
-5. For my contact page I have connected the form to Email.js together with my sendEmail.js file. I have used my knowledge from code institute to accomplish this, combined with help from the code institute tutor support team, which was a big help. Thank you for helping me out John!
-6. For my article section I have taken inspiration from (https://www.youtube.com/watch?v=PuckVFM5_0Y) and I would like to express my gratitute to (Online Tutorials) for learning me how to create these kind of cool effects. 
-7. I would like to express my gratitute to Erik Wibom for helping me and for spending countless hours teaching me on his free time. It really means a lot to me. So, thank you man!
+4. I would like to express my gratitute to Erik Wibom for helping me and for spending countless hours teaching me on his free time. It really means a lot to me. So, thank you man!
+
+* I would also like to express my sincerely gratitude to Code Institute. While working on my project I have taken usage of the lessons which are always available, at any time. To be able to head backwards and refreshen my memory with the EmailJS function, readme.md file structure and many more elements have been a real benefit for me along the way. So, thank you code institute. 
 
 # CONTENT, IMAGES & MEDIA
 
