@@ -244,14 +244,21 @@ The live link can be found here - (https://colinhammarberg.github.io/MS2/)
 
 #### The most of my images that I have used so far are from Pexels. Down below you'll find the links for those images. Please note that the reason for why Pexels images are integrated is because of that my Brother does not want to put his own images online at this point.
 
-* (https://images.pexels.com/photos/7322119/pexels-photo-7322119.jpeg?cs=srgb&dl=pexels-cottonbro-7322119.jpg&fm=jpg)
-* (https://images.pexels.com/photos/7319480/pexels-photo-7319480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
-* (https://images.pexels.com/photos/7319470/pexels-photo-7319470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
-* (https://images.pexels.com/photos/7319481/pexels-photo-7319481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
-* (https://images.pexels.com/photos/1450155/pexels-photo-1450155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
-* (https://images.pexels.com/photos/1157936/pexels-photo-1157936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
-* (https://images.pexels.com/photos/1493296/pexels-photo-1493296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
-* (https://images.pexels.com/photos/4252184/pexels-photo-4252184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* (Home/Landing page) - (https://www.pexels.com/sv-se/foto/natur-kvinna-landsbygden-berg-6738131/)
+
+- Gallery images can be downloaded from the URL links. All taken from pexels and I give all of the credits to the photographers behind the images. 
+
+* (Gallery page) - (https://images.pexels.com/photos/7322119/pexels-photo-7322119.jpeg?cs=srgb&dl=pexels-cottonbro-7322119.jpg&fm=jpg)
+* (Gallery page) - https://images.pexels.com/photos/7319480/pexels-photo-7319480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* (Gallery page) - (https://images.pexels.com/photos/7319470/pexels-photo-7319470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* (Gallery page) - (https://images.pexels.com/photos/7319481/pexels-photo-7319481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* (Gallery page) - (https://images.pexels.com/photos/7319481/pexels-photo-7319481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* (Gallery page)- (https://images.pexels.com/photos/7322119/pexels-photo-7322119.jpeg?cs=srgb&dl=pexels-cottonbro-7322119.jpg&fm=jpg)
+* (Gallery page) - (https://images.pexels.com/photos/7319480/pexels-photo-7319480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* (Gallery page) - (https://images.pexels.com/photos/7319470/pexels-photo-7319470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+* (Gallery page) - (https://images.pexels.com/photos/7319481/pexels-photo-7319481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+
+- Please note that some of the images are the same in the gallery.
 
 
 
