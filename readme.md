@@ -42,8 +42,8 @@
 
 # WIREFRAMES
 
-1. [Desktop, Ipad & Mobile version Wireframes](https://black-damselfly-dkjdgjk4.ws-eu09.gitpod.io/files/download/?id=863ee85c-5c72-481b-b18f-80eaf8d61a1d)
-2. [Beatiful Mock-Ups](https://black-damselfly-dkjdgjk4.ws-eu09.gitpod.io/files/download/?id=9ecacdb3-4c81-4312-8b34-1dd2674f6c45)
+1. [Desktop, Ipad & Mobile version Wireframes](https://github.com/ColinHammarberg/MS2/blob/ab3664b23d9c1bcc71be2eaf05d05a7fb278ec52/documentation/Milestone-project-2.pdf)
+2. [Beatiful Mock-Ups](https://github.com/ColinHammarberg/MS2/blob/ab3664b23d9c1bcc71be2eaf05d05a7fb278ec52/documentation/Mock-up-img.png)
 
 # FEATURES
 
