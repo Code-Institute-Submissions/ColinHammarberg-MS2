@@ -186,6 +186,7 @@
 
 # UNFIXED BUGS 
 * I have used dublicated menu id's to achieve my main menu and my rezise menu (for Ipad & Mobile usage). This will most probably be changed in the future, but currently it is not compromising the website in a bad way and therefor I have made the decision to not make any changes to it at this stage. 
+* When I ran my CSS code through the https://jigsaw.w3.org/css-validator/ it came some errors and warnings from the (https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css) and (https://colinhammarberg.github.io/MS2/assets/css/animate.css). But, after speaking to the tutor team at Code Institute, they explained to me that errors coming from external script tags won't matter in the evaluation process. 
 
 # DEPLOYMENT
 
