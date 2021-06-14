@@ -230,6 +230,7 @@ The live link can be found here - (https://colinhammarberg.github.io/MS2/)
 * For my gallery page I have received help from (https://bootsnipp.com/snippets/aMGnk). A beatiful platform to receive ideas and important specific coding.
 * For my article section I have taken inspiration from (https://www.youtube.com/watch?v=PuckVFM5_0Y) and I would like to express my gratitute to (Online Tutorials) for learning me how to create these kind of cool effects.
 * For my contact page I have connected the form to Email.js together with my sendEmail.js file. I have used my knowledge from code institute to accomplish this, combined with help from the code institute tutor support team, which was a big help. Thank you for helping me out John! 
+* I made my menu a little bit different from my previous projects. This kind of menu (with a resize & close-btn function) was inspired by https://github.com/codegridweb and some tutoring lessons from Erik Wibom. I learned this kind of menu functions a couple of months ago, by building a personal project for fun and wanted to use the same kind of menu design in this project as well. 
 
 # ACKNOWLEDGEMENTS
 
