@@ -12,6 +12,8 @@
 
 ### I (Colin Hammarberg) am developing/building this resume and informational platform for my beloved brother (Rasmus Hammarberg). The goal with the site is to create a unique resume site, where professional information can be found about Rasmus Hammarberg. I'm putting a lot of focus on the design, and also to implement functions, to create an extrodinary visual effect and interaction with the user. I will also be implementing an API (most probably a Google Map JavaScript API) and include Javascript for each and every page.
 
+<a href="" target="_blank"><img src="/documentation/Mock-Up.png" alt="Book Bites mobile Screen"></a>
+
 # TECHNOLOGIES USED 
  
 ### HTML
@@ -43,8 +45,6 @@
 1. [Desktop, Ipad & Mobile version Wireframes](https://blush-barnacle-p7ejyp38.ws-eu09.gitpod.io/files/download/?id=ad395920-122c-420b-b1ca-bab2ef1d699f)
 2. [Beatiful Mock-Ups](https://browser-blush-barnacle-p7ejyp38.ws-eu09.gitpod.io/workspace/MS2/documentation/Mock-Up.png)
 
-<img src="https://browser-blush-barnacle-p7ejyp38.ws-eu09.gitpod.io/workspace/MS2/documentation/Mock-Up.png">
-
 # FEATURES
 
 ### All of the pages have been created with a mix of HTML, CSS, Javascript, jQuery and other family languages of JavaScript mentioned above. This is shown very clearly, especially on the landing page where a lot of things are happening with the jQuery functions. 
@@ -53,21 +53,21 @@
 
 ### Navigation bar
 
-<img src="https://browser-blush-barnacle-p7ejyp38.ws-eu09.gitpod.io/workspace/MS2/documentation/Navigation-Bar.png">
+<a href="" target="_blank"><img src="/documentation/Navigation-Bar.png" alt="Book Bites mobile Screen"></a>
 
 - Featured on all four pages, the full responsive navigation bar includes links to the "Rasmus Hammarberg" logo, Home/Landing page, Resume page, Contact page and Gallery page. It is identical in each page to allow for smooth navigation throughout the whole website.
 - This nav bar will allow the user to easily find him or herself all around the webiste. 
 
 ### Home page/Landing page 
 
-<img src="https://browser-blush-barnacle-p7ejyp38.ws-eu09.gitpod.io/workspace/MS2/documentation/Landing-page-img.png">
+<a href="" target="_blank"><img src="/documentation/Landing-page-img.png" alt="Book Bites mobile Screen"></a>
 
 - The landing page contains a couple of cool elements and effects. It contains a landing image, combined with some nice linked wordings.
 - The landing page also contains a footer section in the bottom of the page. 
 
 ### Footer section 
 
-<img src="https://browser-blush-barnacle-p7ejyp38.ws-eu09.gitpod.io/workspace/MS2/documentation/Footer.png">
+<a href="" target="_blank"><img src="/documentation/Footer.png" alt="Book Bites mobile Screen"></a>
 
 - The footer section is available on each and every page on the website. 
 - It contains general information and options for the user. The user gets the opportunity to download the cv, locate Rasmus Hammarbergs email address and multiple links to different social media pages. 
@@ -79,7 +79,7 @@
 
 ### Contact page
 
-<img src="https://browser-blush-barnacle-p7ejyp38.ws-eu09.gitpod.io/workspace/MS2/documentation/Contact-page.png">
+<a href="" target="_blank"><img src="/documentation/Contact-page.png" alt="Book Bites mobile Screen"></a>
 
 - The Contact page has the exact same landing page and the same visual effect as the Resume page, but here the sentence "Welcome to my contact page. Enjoy." is written out instead. 
 - When the user scrolls downwards, the user will be able to send a message/email through the contact form. The contact form is currently connected to Email.JS. 
@@ -87,7 +87,7 @@
 
 ### Gallery page
 
-<img src="https://browser-blush-barnacle-p7ejyp38.ws-eu09.gitpod.io/workspace/MS2/documentation/Gallery-page-img.png">
+<a href="" target="_blank"><img src="/documentation/Gallery-page-img.png" alt="Book Bites mobile Screen"></a>
 
 - The Gallery page has the exact same landing page and the same visual effect as the Contact page, but here the sentence "Welcome to my gallery page. Enjoy." is written out instead. 
 - When the user scrolls down, the user will have the opportunity to lock at multiple images (images are currently borrowed from Pexels) in a very beatiful image gallery.
